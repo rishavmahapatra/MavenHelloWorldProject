@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
- name: rishav
+  name: rishav
   vmImage: ubuntu-latest
 
 steps:
